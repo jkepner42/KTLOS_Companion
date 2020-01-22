@@ -1,0 +1,7 @@
+## Interface: 11303
+## Title: KTLOS Companion
+## Notes: 
+## SavedVariables: KTLOS_CompanionConfig
+
+KTLOS_Companion.lua
+KTLOS_Companion.xml
